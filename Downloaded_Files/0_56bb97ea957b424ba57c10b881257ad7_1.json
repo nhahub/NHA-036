@@ -1,0 +1,4 @@
+{"EventTime":"2025-11-23T22:05:00.0000000Z","location":"6October-Bridge","avg_speed":68.0,"total_vehicle_count":286.0,"AlertType":"Traffic Congestion Detected","AlertLevel":2}
+{"EventTime":"2025-11-23T22:05:00.0000000Z","location":"Giza-Square","avg_speed":65.125,"total_vehicle_count":390.0,"AlertType":"Traffic Congestion Detected","AlertLevel":2}
+{"EventTime":"2025-11-23T22:08:00.0000000Z","location":"Giza-Square","avg_speed":66.45454545454545,"total_vehicle_count":254.0,"AlertType":"Traffic Congestion Detected","AlertLevel":2}
+{"EventTime":"2025-11-23T22:08:00.0000000Z","location":"Nasr-City","avg_speed":64.625,"total_vehicle_count":364.0,"AlertType":"Traffic Congestion Detected","AlertLevel":3}

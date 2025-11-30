@@ -1,0 +1,7 @@
+{"EventTime":"2025-11-23T21:45:00.0000000Z","location":"6October-Bridge","avg_speed":81.4,"AlertType":"High Speed Warning","AlertLevel":2}
+{"EventTime":"2025-11-23T21:45:30.0000000Z","location":"Alex-Corniche","avg_speed":84.75,"AlertType":"High Speed Warning","AlertLevel":2}
+{"EventTime":"2025-11-23T21:46:00.0000000Z","location":"Cairo-RingRoad","avg_speed":80.0,"AlertType":"High Speed Warning","AlertLevel":2}
+{"EventTime":"2025-11-23T21:46:00.0000000Z","location":"Giza-Square","avg_speed":100.0,"AlertType":"Critical Speed Alert","AlertLevel":3}
+{"EventTime":"2025-11-23T21:47:00.0000000Z","location":"Giza-Square","avg_speed":99.0,"AlertType":"Critical Speed Alert","AlertLevel":3}
+{"EventTime":"2025-11-23T21:47:00.0000000Z","location":"Alex-Corniche","avg_speed":80.0,"AlertType":"High Speed Warning","AlertLevel":2}
+{"EventTime":"2025-11-23T21:47:30.0000000Z","location":"Nasr-City","avg_speed":92.71428571428571,"AlertType":"High Speed Warning","AlertLevel":2}

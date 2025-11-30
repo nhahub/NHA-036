@@ -1,0 +1,10 @@
+{"EventTime":"2025-11-15T15:27:00.0000000Z","location":"Giza-Square","avg_speed":69.3125,"total_vehicle_count":744.0,"AlertType":"Traffic Congestion Detected","AlertLevel":2}
+{"EventTime":"2025-11-15T15:27:00.0000000Z","location":"Alex-Corniche","avg_speed":66.13636363636364,"total_vehicle_count":469.0,"AlertType":"Traffic Congestion Detected","AlertLevel":2}
+{"EventTime":"2025-11-15T15:28:00.0000000Z","location":"Cairo-RingRoad","avg_speed":67.08695652173913,"total_vehicle_count":501.0,"AlertType":"Traffic Congestion Detected","AlertLevel":2}
+{"EventTime":"2025-11-15T15:28:00.0000000Z","location":"Giza-Square","avg_speed":52.166666666666664,"total_vehicle_count":412.0,"AlertType":"Traffic Congestion Detected","AlertLevel":3}
+{"EventTime":"2025-11-15T15:28:00.0000000Z","location":"Nasr-City","avg_speed":68.05555555555556,"total_vehicle_count":371.0,"AlertType":"Traffic Congestion Detected","AlertLevel":2}
+{"EventTime":"2025-11-15T15:29:00.0000000Z","location":"6October-Bridge","avg_speed":56.86363636363637,"total_vehicle_count":482.0,"AlertType":"Traffic Congestion Detected","AlertLevel":3}
+{"EventTime":"2025-11-15T15:29:00.0000000Z","location":"Nasr-City","avg_speed":66.77777777777777,"total_vehicle_count":386.0,"AlertType":"Traffic Congestion Detected","AlertLevel":2}
+{"EventTime":"2025-11-15T15:30:00.0000000Z","location":"Cairo-RingRoad","avg_speed":67.30434782608695,"total_vehicle_count":466.0,"AlertType":"Traffic Congestion Detected","AlertLevel":2}
+{"EventTime":"2025-11-15T15:31:00.0000000Z","location":"Giza-Square","avg_speed":60.526315789473685,"total_vehicle_count":488.0,"AlertType":"Traffic Congestion Detected","AlertLevel":3}
+{"EventTime":"2025-11-15T15:32:00.0000000Z","location":"Nasr-City","avg_speed":66.53846153846153,"total_vehicle_count":357.0,"AlertType":"Traffic Congestion Detected","AlertLevel":2}
